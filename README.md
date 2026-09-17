@@ -2,6 +2,8 @@
 
 Kleine Making-Projekte als Selbstlernkurse für das Makermobil-Team. Jede Lektion ist in ca. 2 Stunden selbstständig machbar.
 
+👉 **Interaktive Web-Version:** [index.html](index.html) – nach Aktivierung von GitHub Pages erreichbar unter <https://digitalthob.github.io/MiniMakingProjekte/>
+
 ## Kurse
 
 | Lektion | Projekt | Dauer | Ordner |
